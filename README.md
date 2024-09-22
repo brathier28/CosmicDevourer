@@ -1,2 +1,2 @@
 # CosmicDevourer
-Hack@Brown 2024 Project Cosmic Devourer
+This project was created for the 2024 iteration of Hack@Brown in February.
