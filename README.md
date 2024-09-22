@@ -6,7 +6,7 @@ Main -> Deals with general functionality of the game, including planet generatio
 physics w/ blackhole, updating the game based on planetary collisions, creating the game backdrop/background, and changing game-states 
 to either win or lose depending on player outcomes
 
-##Class Descriptions
+## Class Descriptions
 Conf -> Sets general window configurations
 
 Ball -> Also known as the "player" class, this class deals with player movement and gravitational interactions
